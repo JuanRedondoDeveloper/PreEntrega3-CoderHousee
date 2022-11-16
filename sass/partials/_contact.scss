@@ -1,0 +1,36 @@
+.form-control-input {
+    .form-control-select{
+        .form-control-textarea {
+            width: 100%;
+	padding-top: 0.875rem;
+	padding-bottom: 0.875rem;
+	padding-left: 1.5rem;
+	border: 1px solid #5e6576;
+	border-radius: 8px;
+	background-color: #ffffff;
+	color: #5e6576;
+	font-size: 0.875rem;
+	line-height: 1.5rem;
+	-webkit-appearance: none; 
+        }
+    }
+ }
+
+ .form-control-select {
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	height: 3.5rem;
+	color: #5e6576;
+}
+
+select {
+    -webkit-appearance: none;
+	-moz-appearance: none;
+	-ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    background-image: url('../img/down-arrow.png');
+    background-position: 98% 50%;
+    background-repeat: no-repeat;
+    outline: none;
+}
